@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech, especially programming
 - 🌱 I’m currently learning C Programming and exploring new technologies.
 - 💞️ I’m looking to collaborate on open-source projects or coding challenges.
-- 📫 How to reach me: chauhsanyash20006@gmail.com 
+- 📫 How to reach me: chauhanyash20006@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: As an overthinker, I often come up with multiple solutions to a single problem.
 
