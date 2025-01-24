@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash
 - 👀 I’m interested in Tech, especially programming
-- 🌱 I’m currently learning C Programming and exploring new technologies.
+- 🌱 I’m currently learning Web development,Java and exploring new technologies.
 - 💞️ I’m looking to collaborate on open-source projects or coding challenges.
 - 📫 How to reach me: chauhanyash20006@gmail.com 
 - 😄 Pronouns: He/Him
