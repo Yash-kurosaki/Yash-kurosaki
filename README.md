@@ -12,10 +12,10 @@
 
 ## ✨ About Me
 <p align="center">
-  - 🚀 Web & AI Developer <br>
-  - 🧠 Exploring Web3 & System Design <br>
-  - 🔍 Curious. Consistent. Creative. <br>
-  - 💸 Goal: Build a <b>∞ money generator</b>
+   🚀 Web & AI Developer <br>
+   🧠 Exploring Web3 & System Design <br>
+   🔍 Curious. Consistent. Creative. <br>
+   💸 Goal: Build a <b>∞ money generator</b>
 </p>
 
 ---
@@ -27,9 +27,6 @@
   <img src="https://img.shields.io/github/stars/kurosaki-Yash?label=Stars&style=flat&color=7AA2F7" />
 </p>
 
-<p align="center">
-  <i>Live stats coming back soon (self-hosted)</i>
-</p>
 
 ---
 
@@ -51,11 +48,11 @@
 
 ## 🌐 Connect With Me
 <p align="center">
+  <a href="https://x.com/yasxh01">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/yash1111/">
     <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="your-portfolio-link">
-    <img src="https://img.shields.io/badge/Portfolio-F7768E?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:chauhanyash20006@gmail.com">
     <img src="https://img.shields.io/badge/Email-9ECE6A?style=for-the-badge&logo=gmail&logoColor=white" />
