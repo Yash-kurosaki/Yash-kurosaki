@@ -69,8 +69,17 @@
 </p>
 
 <p align="center">
-  <i>
-    “Stay hungry. Stay foolish.”
-  </i><br>
-  — <b>Steve Jobs</b>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com
+    ?font=Fira+Code
+    &size=22
+    &pause=1500
+    &color=9ECE6A
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=“Stay+hungry.+Stay+foolish.”"
+  />
+  <br>
+  <b>— Steve Jobs</b>
 </p>
