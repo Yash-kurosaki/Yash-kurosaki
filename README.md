@@ -1,6 +1,6 @@
 <!-- Hero / Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hey+👋,+I'm+Yash+Chauhan;Web+%26+AI+Developer;Building+Cool+Things+🚀;Learning+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hey+👋,+This+is+Yash+Chauhan;Web+%26+AI+Developer;Building+Cool+Things+🚀;Learning+Every+Day" />
 </p>
 
 <!-- Divider -->
