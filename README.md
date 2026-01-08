@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Stay+hungry.;Stay+foolish." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Stay+hungry.+Stay+foolish." />
   <br>
   <b>— Steve Jobs</b>
 </p>
