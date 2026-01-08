@@ -12,10 +12,10 @@
 
 ## ✨ About Me
 <p align="center">
-  🚀 Web & AI Developer <br>
-  🧠 Exploring Web3 & System Design <br>
-  🔍 Curious. Consistent. Creative. <br>
-  💸 Goal: Build a <b>∞ money generator</b>
+  - 🚀 Web & AI Developer <br>
+  - 🧠 Exploring Web3 & System Design <br>
+  - 🔍 Curious. Consistent. Creative. <br>
+  - 💸 Goal: Build a <b>∞ money generator</b>
 </p>
 
 ---
