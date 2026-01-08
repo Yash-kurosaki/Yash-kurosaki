@@ -12,15 +12,15 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurosaki-Yash&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurosaki-Yash&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurosaki-Yash&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurosaki-Yash&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurosaki-Yash&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=kurosaki-Yash&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kurosaki-Yash&theme=tokyonight&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kurosaki-Yash&theme=tokyonight&row=2&column=3&no-frame=true&margin-w=15" />
 </p>
 
 ---
